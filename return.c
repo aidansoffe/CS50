@@ -1,6 +1,6 @@
 // small cubing process of 2*2*2=8 
 
-#include <stdio.c>
+#include <stdio.h>
 #include <cs50.h>
 int main(void)
 {
