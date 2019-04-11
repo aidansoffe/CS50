@@ -7,4 +7,4 @@ int main(void)
     printf("%i\n", i);
 }
 
-// revision add this is wha tis on the github MOST UP TO DATE
+// revision add this is what is on the github MOST UP TO DATE
